@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Introduction](README.md)
+* [Vision](vision.md)
+* [Approach](approach.md)

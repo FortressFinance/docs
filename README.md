@@ -1,6 +1,3 @@
----
-description: Fortress Finance is an Arbitrage Protocol for Yield Optimization!
----
+# Introduction
 
-# Overview
-
+Fortress Finance is a DeFi Protocol for Yield Optimization.
