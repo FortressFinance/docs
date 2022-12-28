@@ -15,4 +15,7 @@
 
 ## Resources
 
+* [Glossary](resources/glossary.md)
 * [Links](resources/links.md)
+* [Smart Contracts](resources/smart-contracts/README.md)
+  * [GLP Compounder](resources/smart-contracts/glp-compounder.md)
