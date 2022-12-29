@@ -16,5 +16,10 @@ by the vaults. Vault shares increase in value at every compounding event, as
 more of the vault assets accumulate, while the amount of vault shares remain
 unchanged.
 
+While holding vault shares, holders accumulate rewards. All accrued rewards can
+be claimed at any time, even if vault shares are not owned anymore. In other
+words, users can claim rewards that already accrued, even if further rewards are
+not accruing anymore.
+
 Users may chose to utilize fortTokens in different DeFi Protocols or Fortress
 Strategies for additional capital efficiency.
