@@ -18,7 +18,7 @@ A smart contract managing token deposits according to its specific investment st
 
 #### Vault Asset
 
-The tokens that users deposit into a vault.
+The primary asset which vault shares are denominated in.
 
 #### Vault Shares
 
