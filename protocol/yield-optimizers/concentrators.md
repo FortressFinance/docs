@@ -11,15 +11,13 @@ their economic value immediately.
 
 Concentrators mint ERC20 vault shares (fortTokens) for users upon deposits. In
 turn, Concentrators burn these vault shares again upon withdrawals. Vault shares
-simply represent receipts to the auto-compounding vault assets that are managed
-by the vaults. Vault shares increase in value at every compounding event, as
-more of the vault assets accumulate, while the amount of vault shares remain
-unchanged.
-
-While holding vault shares, holders accumulate rewards. All accrued rewards can
-be claimed at any time, even if vault shares are not owned anymore. In other
-words, users can claim rewards that already accrued, even if further rewards are
-not accruing anymore.
+represent pro-rata claims on vault assets deposited. The value of vault shares
+is always equal to the value of vault assets, as reward tokens are invested into
+other vaults, the vault assets to vault shares ratio remains unchanged. While
+holding vault shares, holders accumulate rewards. All accrued rewards can be
+claimed at any time, even if vault shares are not owned anymore. In other words,
+users can claim rewards that already accrued, even if further rewards are not
+accruing anymore.
 
 Users may chose to utilize fortTokens in different DeFi Protocols or Fortress
 Strategies for additional capital efficiency.
