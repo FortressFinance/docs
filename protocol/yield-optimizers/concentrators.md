@@ -6,8 +6,8 @@ farming strategies to provide the user with minimum exposure to vault assets.
 Concentrators claim their strategy rewards periodically and swap their reward
 tokens into target assets, which are then invested into vaults that provide risk
 profiles different from the originating vault. That is how Concentrators
-minimize exposure to reward tokens, by not holding on to them, but repurposing
-their economic value immediately.
+leverage the investment attributes of the principal, while not leaving the
+entire position exposed to the risks of the initial investment.
 
 Concentrators mint ERC20 vault shares (fortTokens) for users upon deposits. In
 turn, Concentrators burn these vault shares again upon withdrawals. Vault shares
