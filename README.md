@@ -7,5 +7,5 @@ sophisticated passive investors in the DeFi ecosystem.
 
 Passive investors, seen as class of financial market participants, usually
 operate on the basis of long time horizons and are able to withstand short term
-volatility. Fortress will allow passive investors to "set and forget" individual
-investment strategies.
+volatility. Fortress will provide passive investors with a toolbox that
+complements passive long term investment strategies.
