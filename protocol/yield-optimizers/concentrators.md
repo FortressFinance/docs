@@ -1,7 +1,7 @@
 # Concentrators
 
 Fortress auto-concentrators (Concentrators) are ERC-4626 vaults that use certain
-farming strategies to provide the user with minimum exposure to reward tokens. 
+farming strategies to provide the user with minimum exposure to vault assets. 
 
 Concentrators claim their strategy rewards periodically and swap their reward
 tokens into target assets, which are then invested into vaults that provide risk
