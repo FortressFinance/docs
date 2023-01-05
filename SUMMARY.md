@@ -17,5 +17,9 @@
 
 * [Glossary](resources/glossary.md)
 * [Links](resources/links.md)
+* [MultiSigs](resources/multisigs/README.md)
+  * [Owner](resources/multisigs/owner.md)
+  * [Platform](resources/multisigs/platform.md)
+  * [Treasury](resources/multisigs/treasury.md)
 * [Smart Contracts](resources/smart-contracts/README.md)
   * [GLP Compounder](resources/smart-contracts/glp-compounder.md)
