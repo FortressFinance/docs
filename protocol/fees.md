@@ -1,3 +1,12 @@
 # Fees
 
-All withdrawals incur a nominal fee of 1% per anum.&#x20;
+Yield Optimizer fees are taken based on generated user profits. This is called a
+performance fee. There are no management or deposit fees. There is a minor
+withdrawal fee used as security mechanism against certain kinds of JIT MEV. For
+instance an attacker would deposit funds right before a vault gets harvested and
+would thus earns yield without "working" for it. The withdrawal fee is send back
+to the vault and is therefore eventually distributed to all vault participants
+in form of user profit. There is also a harvest fee that the caller of the
+harvest function earns in order to incentivize decentralized execution
+mechanisms. The amounts of fees described vary per vault and may change over
+time, depending on the generated vault yield, its TVL, and required gas costs.
