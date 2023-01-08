@@ -23,3 +23,7 @@
   * [Treasury](resources/multisigs/treasury.md)
 * [Smart Contracts](resources/smart-contracts/README.md)
   * [GLP Compounder](resources/smart-contracts/glp-compounder.md)
+* [System Design](resources/system-design/README.md)
+  * [Web Client](resources/system-design/web-client.md)
+  * [API Gateway](resources/system-design/api-gateway.md)
+  * [Smart Contracts](resources/system-design/smart-contracts.md)
