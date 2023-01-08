@@ -8,6 +8,14 @@ A vault re-investing generated rewards into itself.
 
 A vault re-directing generated rewards into another vault.
 
+#### JIT
+
+Acronym meaning Just In Time referring to execution within very short time frames.
+
+#### MEV
+
+Acronym meaning Maximum Extractable Value referring to any value extractable in any system.
+
 #### Target Asset
 
 The tokens that concentrator rewards are swapped into.
