@@ -10,6 +10,7 @@
 * [Yield Optimizers](protocol/yield-optimizers/README.md)
   * [Compounders](protocol/yield-optimizers/compounders.md)
   * [Concentrators](protocol/yield-optimizers/concentrators.md)
+* [Managed Vaults](protocol/managed-vaults.md)
 * [Fees](protocol/fees.md)
 * [Risks](protocol/risks.md)
 
