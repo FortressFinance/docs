@@ -4,7 +4,7 @@ The Managed Vaults architecture provides permissionless primitives for flexible 
 
 ### Vault Manager
 
-Vault Managers are independent operators running on-chain investment strategies for profit. Vault Managers are required to deposit a certain amount of collateral and are incentivized to act honestly, since unreliable or dishonest behaviour may be subject to collateral liquidation.
+Vault Managers are independent operators running on-chain investment strategies for profit. Vault Managers are required to deposit a certain amount of collateral and are incentivized to act honestly, since unreliable or dishonest behaviour may be subject to collateral liquidation. Collateral must be denominated in the meta vault's primary asset. This is the asset users deposit and therefore creates alignment between depositors and vault managers.
 
 ### Meta Vault
 
